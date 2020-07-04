@@ -1,4 +1,4 @@
-## speakUp - Before the crime is done 🚨
+## speakUp - before the crime is done 🚨
 
 ### App Description
 SkeapUp is a cross-platform app that aims to ensure safety of Chicago citizens by allowing them to report crimes and emergency situations as soon as possible to the Chicago Police Department in order to minimize damages done to victims in distress. This app also allow users to navigate resources and centers that will provide them ongoing support if they were victims of crimes such as shooting, theft, and more. 
