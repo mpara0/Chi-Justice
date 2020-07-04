@@ -23,6 +23,7 @@ SkeapUp is a cross-platform app that aims to ensure safety of Chicago citizens b
 * The app would be a developed in native environments such as ```Android Studio``` for Android Users and ```XCode``` for Apple Users
 * ```Google Map API``` for interactive map and filter locations and results 
 * ``` Google Translate API``` to translate the app to different languages to support non-native English speakers
+* Set up a ```Firebase``` environment or other back-end environment to save messages if the messages were to be deleted from the app. There could be a privacy law against this however
 * Ability to call and deliver SMS services or a chat-bot integrated into the app
 ---
 
