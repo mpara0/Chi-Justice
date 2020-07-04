@@ -1,4 +1,4 @@
-## Chi-Justice
+## speakUp
 
 ### App Description
 
