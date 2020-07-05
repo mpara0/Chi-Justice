@@ -36,7 +36,7 @@ Chicago is known to be the "murder capital" - however, did you know that there h
 
 According to the Chicago Sun Time, there is typically over 900 murders per year in Chicago alone. Earlier this month, Chicago broke a new record - 18 murders in 24 hours - which is known as the most violent day in Chicago history. 
 
-The problems with these cases are that the victims do not use their voice until after the damage is done. If only there was a way to help the victim and the cops.. or a way to SPEAK UP before the crime is done.
+The problems with these cases are that the victims do not use their voice until after the damage is done. If only there was a way to help the victim and the cops.. or a way to SPEAK UP before the crime scene gets worse.
 
 SpeakUp is a mobile application devoted to equip users to safety and get constant commuication before the damage is done. This app allows users to feel connected with the Chicago Police Department and as well as providing them a support network and resources when in distress. 
 
