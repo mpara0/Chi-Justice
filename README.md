@@ -31,11 +31,5 @@ speakUp is a mobile app that aims to ensure safety of Chicago citizens by allowi
 // TODO: Add Wireframe Images
 
 ---
-
-### App Demo
-// TODO: Add App Demo 
-
----
-
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
