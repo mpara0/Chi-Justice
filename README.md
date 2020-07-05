@@ -27,11 +27,6 @@ speakUp is a mobile app that aims to ensure safety of Chicago citizens by allowi
 * Ability to call and deliver SMS services or a chat-bot integrated into the app
 ---
 
-### Wireframes
-<img align = "left" src = "https://github.com/mpara0/speakUp/blob/master/wireframes/message.png" width=120> </img>
-
-
----
 ### 📢 speakUp Pitch
 Chicago is known to be the "murder capital" - however, did you know that there has been over a 28% increase in crimes over the past year? 
 
@@ -42,3 +37,12 @@ The problems with these cases are that the victims do not use their voice until 
 SpeakUp is a mobile application devoted to equip users to safety and get constant commuication before the damage is done. This app allows users to feel connected with the Chicago Police Department and as well as providing them a support network and resources when in distress. 
 
 Mayor Lori Lightfoot can further promote the app through improving training and accessibility of Chicago Police Officers. Additionally, Lighfoot can help promote integrating a program with the Chicago Public Schools. SPEAK UP will be a program to equip and educate K-8 students safety measures in tough situations and a way to raise their voices if there is a crime. 
+
+---
+
+### Wireframes
+<img align = "left" src = "https://github.com/mpara0/speakUp/blob/master/wireframes/message.png" width=120> </img>
+
+
+---
+
