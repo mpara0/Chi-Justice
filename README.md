@@ -28,7 +28,8 @@ speakUp is a mobile app that aims to ensure safety of Chicago citizens by allowi
 ---
 
 ### Wireframes
-![message](https://github.com/mpara0/speakUp/blob/master/wireframes/message.png =250x250)
+![test image size](https://github.com/mpara0/speakUp/blob/master/wireframes/message.png){:height="50%" width="50%"}
+
 
 ---
 ### 📢 speakUp Pitch
