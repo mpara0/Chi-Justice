@@ -32,6 +32,8 @@ speakUp is a mobile app that aims to ensure safety of Chicago citizens by allowi
 
 ---
 ### 📢 speakUp Pitch
+![Chicago Log](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wgnflag.com%2Fxcart5%2FChicago-Police-Department-Flag.html&psig=AOvVaw3AYatkzhe0NitCx_ABzSIA&ust=1594004579390000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjakPiPteoCFQAAAAAdAAAAABAF)
+
 Chicago is known to be the "murder capital" - however, did you know that there has been over a 28% increase in crimes over the past year? 
 
 According to the Chicago Sun Time, there is typically over 900 murders per year in Chicago alone. Earlier this month, Chicago broke a new record - 18 murders in 24 hours - which is known as the most violent day in Chicago history. 
