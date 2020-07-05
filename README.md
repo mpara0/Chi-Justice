@@ -42,6 +42,8 @@ Mayor Lori Lightfoot can further promote the app through improving training and 
 
 ### Wireframes
 <img align = "left" src = "https://github.com/mpara0/speakUp/blob/master/wireframes/message.png" width=170> </img>
+<img align = "center" src = "https://github.com/mpara0/speakUp/blob/master/wireframes/map.png" width=170> </img>
+<img align = "right" src = "https://github.com/mpara0/speakUp/blob/master/wireframes/report.png" width=170> </img>
 
 
 
